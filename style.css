@@ -1,0 +1,38 @@
+.bg-dark-change{
+    background-color: #264653;
+}
+
+.grayscale img{
+    filter: grayscale (100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.fa-star{
+    color: #e77c40;
+}
+
+.clients-say{
+    color:  #e77c40;;
+}
+.Questions{
+    color:  #e77c40;;
+}
+.fab{
+color: white;
+font-size: 26px;
+}
+.Review{
+    color:  #e77c40;
+}
+.btn-warning-change{
+    background-color: #e77c40;
+    color: white;
+}
+}
+.text-change{
+    color: #e77c40;
+}
+
+
+
+  
